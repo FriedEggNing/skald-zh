@@ -6,7 +6,7 @@ A complete Simplified Chinese fan translation for [SKALD: Against the Black Prio
 
 ## 下载 / Download
 
-- **[Releases](../../releases/latest)**：下载 `SKALD_SimplifiedChinese_v0.9.1.zip`
+- **[Releases](../../releases/latest)**：下载 `SKALD_SimplifiedChinese_v0.9.2.zip`
 - mod.io（游戏官方模组平台，国内需要加速）：<https://mod.io/g/skald-against-the-bl/m/simplified-chinese-translation>
 - ModDB：<https://www.moddb.com/games/skald-against-the-black-priory/downloads>
 
